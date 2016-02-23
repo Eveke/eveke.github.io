@@ -233,7 +233,7 @@ vertical-align: middle;
 }
 
 .tasting-snippet {
-  margin-top: 30rem;
+  margin-top: 24rem;
 }
 
 .container {
@@ -242,7 +242,7 @@ vertical-align: middle;
 
 .notes {
   z-index: 9999;
-  margin-top: -28rem;
+  margin-top: -24rem;
 }
 
 .collect {
@@ -327,4 +327,8 @@ input:focus {
 
 .makers-bg {
   background-color: #414449;
+}
+
+.hidden {
+  display: none;
 }
